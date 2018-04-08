@@ -1,7 +1,7 @@
 # vue_list
 
 ## requirements
-``` node.js
+```# node.js
 ```
 
 ## Build Setup
