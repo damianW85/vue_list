@@ -16,7 +16,7 @@
         <tr scope="row" v-for="item in ListData" :key="item.id">
           <td>{{ item.name }}</td>
           <td>{{ item.sku }}</td>
-          <td>{{ item.sku }}</td>
+          <td>{{ item.renewal_date }}</td>
           <td>{{ item.sell_recurring_incl_vat }}</td>
         </tr>
       </tbody>
